@@ -1,0 +1,61 @@
+MLP(
+  (layer_input): Linear(in_features=784, out_features=200, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.5, inplace=False)
+  (layer_hidden): Linear(in_features=200, out_features=10, bias=True)
+)
+Aggregation over all clients
+Round   0, Average loss 0.792
+Round   1, Average loss 0.259
+Round   2, Average loss 0.139
+Round   3, Average loss 0.087
+Round   4, Average loss 0.060
+Round   5, Average loss 0.045
+Round   6, Average loss 0.035
+Round   7, Average loss 0.029
+Round   8, Average loss 0.024
+Round   9, Average loss 0.021
+Training accuracy: 88.18
+Testing accuracy: 88.88
+MLP(
+  (layer_input): Linear(in_features=784, out_features=200, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.5, inplace=False)
+  (layer_hidden): Linear(in_features=200, out_features=10, bias=True)
+)
+Aggregation over all clients
+Round   0, Average loss 0.798
+Round   1, Average loss 0.264
+Round   2, Average loss 0.144
+Round   3, Average loss 0.090
+Round   4, Average loss 0.063
+Round   5, Average loss 0.047
+Round   6, Average loss 0.037
+Round   7, Average loss 0.030
+Round   8, Average loss 0.025
+Round   9, Average loss 0.021
+Round  10, Average loss 0.019
+Round  11, Average loss 0.017
+Round  12, Average loss 0.015
+Round  13, Average loss 0.014
+Round  14, Average loss 0.012
+Round  15, Average loss 0.011
+Round  16, Average loss 0.011
+Round  17, Average loss 0.010
+Round  18, Average loss 0.009
+Round  19, Average loss 0.009
+Round  20, Average loss 0.008
+Round  21, Average loss 0.007
+Round  22, Average loss 0.007
+MLP(
+  (layer_input): Linear(in_features=784, out_features=200, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.5, inplace=False)
+  (layer_hidden): Linear(in_features=200, out_features=10, bias=True)
+)
+MLP(
+  (layer_input): Linear(in_features=784, out_features=200, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.5, inplace=False)
+  (layer_hidden): Linear(in_features=200, out_features=10, bias=True)
+)
