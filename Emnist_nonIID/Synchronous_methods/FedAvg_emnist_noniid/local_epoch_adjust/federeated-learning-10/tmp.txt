@@ -1,0 +1,60 @@
+/data1/bxs/conda2/envs/lucky/lib/python3.8/site-packages/torchvision/datasets/mnist.py:65: UserWarning: train_labels has been renamed targets
+  warnings.warn("train_labels has been renamed targets")
+CNNEmnist(
+  (conv1): Sequential(
+    (0): Conv2d(1, 16, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (1): ReLU()
+    (2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  )
+  (conv2): Sequential(
+    (0): Conv2d(16, 32, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+    (1): ReLU()
+    (2): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  )
+  (out): Linear(in_features=1568, out_features=47, bias=True)
+)
+Round   0, Average loss 0.375
+Training accuracy: 17.94
+Testing accuracy: 17.67
+Round   1, Average loss 0.296
+Training accuracy: 37.67
+Testing accuracy: 37.50
+Round   2, Average loss 0.231
+Training accuracy: 43.54
+Testing accuracy: 43.41
+Round   3, Average loss 0.201
+Training accuracy: 46.77
+Testing accuracy: 46.65
+Round   4, Average loss 0.177
+Training accuracy: 49.15
+Testing accuracy: 48.97
+Round   5, Average loss 0.159
+Training accuracy: 51.39
+Testing accuracy: 51.30
+Round   6, Average loss 0.146
+Training accuracy: 53.41
+Testing accuracy: 53.19
+Round   7, Average loss 0.135
+Training accuracy: 55.38
+Testing accuracy: 55.13
+Round   8, Average loss 0.126
+Training accuracy: 57.09
+Testing accuracy: 56.80
+Round   9, Average loss 0.119
+Training accuracy: 58.76
+Testing accuracy: 58.45
+Round  10, Average loss 0.111
+Training accuracy: 60.15
+Testing accuracy: 59.89
+Round  11, Average loss 0.107
+Training accuracy: 61.52
+Testing accuracy: 61.32
+Round  12, Average loss 0.103
+Training accuracy: 62.59
+Testing accuracy: 62.38
+Round  13, Average loss 0.098
+Training accuracy: 63.67
+Testing accuracy: 63.50
+Round  14, Average loss 0.096
+Training accuracy: 64.52
+Testing accuracy: 64.32

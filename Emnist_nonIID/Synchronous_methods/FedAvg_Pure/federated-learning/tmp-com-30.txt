@@ -1,0 +1,14 @@
+Epoch No.1 epoch is over, now time is 2023-06-01 20:23:13
+Epoch No.2 epoch is over, now time is 2023-06-02 16:32:46
+Epoch No.3 epoch is over, now time is 2023-06-03 12:36:50
+Epoch No.4 epoch is over, now time is 2023-06-04 08:52:18
+Epoch No.5 epoch is over, now time is 2023-06-05 05:07:44
+Epoch No.6 epoch is over, now time is 2023-06-06 01:27:44
+Epoch No.7 epoch is over, now time is 2023-06-06 21:43:05
+Epoch No.8 epoch is over, now time is 2023-06-07 17:41:15
+Epoch No.9 epoch is over, now time is 2023-06-08 13:56:40
+Epoch No.10 epoch is over, now time is 2023-06-09 10:12:07
+Epoch No.11 epoch is over, now time is 2023-06-10 06:27:35
+Epoch No.12 epoch is over, now time is 2023-06-11 02:47:37
+constellation StarLink training start time: 2023-06-01 00:00:00
+constellation StarLink training end time: 2023-06-11 02:47:37
