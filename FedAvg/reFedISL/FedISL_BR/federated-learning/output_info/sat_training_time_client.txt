@@ -1,0 +1,49 @@
+Epochs 0
+client 17 during epochs 0 consume training time: 28.649447917938232s
+client 19 during epochs 0 consume training time: 28.695820331573486s
+client 23 during epochs 0 consume training time: 26.25799798965454s
+client 22 during epochs 0 consume training time: 26.331626415252686s
+client 24 during epochs 0 consume training time: 26.147756338119507s
+client 33 during epochs 0 consume training time: 25.970185041427612s
+client 39 during epochs 0 consume training time: 26.331857919692993s
+client 32 during epochs 0 consume training time: 26.037513732910156s
+
+Epochs 1
+client 19 during epochs 1 consume training time: 26.299174070358276s
+client 10 during epochs 1 consume training time: 26.07926368713379s
+client 8 during epochs 1 consume training time: 26.1718270778656s
+client 22 during epochs 1 consume training time: 26.383105754852295s
+client 25 during epochs 1 consume training time: 26.42181634902954s
+client 16 during epochs 1 consume training time: 26.0551438331604s
+client 26 during epochs 1 consume training time: 26.248360633850098s
+client 7 during epochs 1 consume training time: 26.104613780975342s
+
+Epochs 2
+client 21 during epochs 2 consume training time: 25.979228973388672s
+client 35 during epochs 2 consume training time: 26.156161546707153s
+client 16 during epochs 2 consume training time: 26.212793111801147s
+client 10 during epochs 2 consume training time: 26.14057421684265s
+client 30 during epochs 2 consume training time: 26.146700859069824s
+client 11 during epochs 2 consume training time: 26.176037073135376s
+client 14 during epochs 2 consume training time: 26.124180793762207s
+client 1 during epochs 2 consume training time: 25.831017017364502s
+
+Epochs 3
+client 5 during epochs 3 consume training time: 26.195940494537354s
+client 7 during epochs 3 consume training time: 26.25956439971924s
+client 28 during epochs 3 consume training time: 26.214935779571533s
+client 32 during epochs 3 consume training time: 26.47091007232666s
+client 0 during epochs 3 consume training time: 24.212726831436157s
+client 18 during epochs 3 consume training time: 26.5113308429718s
+client 29 during epochs 3 consume training time: 25.433303117752075s
+client 27 during epochs 3 consume training time: 26.301532745361328s
+
+Epochs 4
+client 32 during epochs 4 consume training time: 26.3582706451416s
+client 3 during epochs 4 consume training time: 28.602041721343994s
+client 27 during epochs 4 consume training time: 29.340970754623413s
+client 5 during epochs 4 consume training time: 26.93364119529724s
+client 0 during epochs 4 consume training time: 26.349006175994873s
+client 37 during epochs 4 consume training time: 26.506471157073975s
+client 1 during epochs 4 consume training time: 26.05440092086792s
+client 35 during epochs 4 consume training time: 26.22703981399536s

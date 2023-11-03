@@ -1,0 +1,181 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Res_Model(
+  (block1): Conv_Block(
+    (left): Sequential(
+      (0): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (4): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (shortcut): Sequential(
+      (0): Conv2d(3, 64, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      (1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (relu): Sequential(
+      (0): ReLU(inplace=True)
+    )
+  )
+  (block2): Conv_Block(
+    (left): Sequential(
+      (0): Conv2d(64, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): Conv2d(128, 128, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (4): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (shortcut): Sequential(
+      (0): Conv2d(64, 128, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      (1): BatchNorm2d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (relu): Sequential(
+      (0): ReLU(inplace=True)
+    )
+  )
+  (block3): Conv_Block(
+    (left): Sequential(
+      (0): Conv2d(128, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): Conv2d(256, 256, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (4): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (shortcut): Sequential(
+      (0): Conv2d(128, 256, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      (1): BatchNorm2d(256, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (relu): Sequential(
+      (0): ReLU(inplace=True)
+    )
+  )
+  (block4): Conv_Block(
+    (left): Sequential(
+      (0): Conv2d(256, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      (2): ReLU(inplace=True)
+      (3): Conv2d(512, 512, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+      (4): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (shortcut): Sequential(
+      (0): Conv2d(256, 512, kernel_size=(1, 1), stride=(1, 1), bias=False)
+      (1): BatchNorm2d(512, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    )
+    (relu): Sequential(
+      (0): ReLU(inplace=True)
+    )
+  )
+  (classifier): Sequential(
+    (0): Flatten(start_dim=1, end_dim=-1)
+    (1): Dropout(p=0.4, inplace=False)
+    (2): Linear(in_features=2048, out_features=256, bias=True)
+    (3): Linear(in_features=256, out_features=64, bias=True)
+    (4): Linear(in_features=64, out_features=10, bias=True)
+  )
+  (relu): ReLU(inplace=True)
+  (maxpool): Sequential(
+    (0): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  )
+)
+Round   0, Average loss 0.203
+Round   1, Average loss 0.081
+Round   2, Average loss 0.052
+Round   3, Average loss 0.039
+Round   4, Average loss 0.031
+Round   5, Average loss 0.027
+Round   6, Average loss 0.028
+Round   7, Average loss 0.025
+Round   8, Average loss 0.024
+Round   9, Average loss 0.021
+Round  10, Average loss 0.020
+Round  11, Average loss 0.019
+Round  12, Average loss 0.018
+Round  13, Average loss 0.021
+Round  14, Average loss 0.017
+Round  15, Average loss 0.017
+Round  16, Average loss 0.015
+Round  17, Average loss 0.017
+Round  18, Average loss 0.015
+Round  19, Average loss 0.017
+Round  20, Average loss 0.015
+Round  21, Average loss 0.014
+Round  22, Average loss 0.014
+Round  23, Average loss 0.013
+Round  24, Average loss 0.012
+Round  25, Average loss 0.014
+Round  26, Average loss 0.011
+Round  27, Average loss 0.011
+Round  28, Average loss 0.011
+Round  29, Average loss 0.013
+Round  30, Average loss 0.011
+Round  31, Average loss 0.011
+Round  32, Average loss 0.012
+Round  33, Average loss 0.013
+Round  34, Average loss 0.009
+Round  35, Average loss 0.010
+Round  36, Average loss 0.011
+Round  37, Average loss 0.010
+Round  38, Average loss 0.009
+Round  39, Average loss 0.009
+Round  40, Average loss 0.010
+Round  41, Average loss 0.009
+Round  42, Average loss 0.009
+Round  43, Average loss 0.012
+Round  44, Average loss 0.011
+Round  45, Average loss 0.010
+Round  46, Average loss 0.009
+Round  47, Average loss 0.009
+Round  48, Average loss 0.009
+Round  49, Average loss 0.011
+Round  50, Average loss 0.008
+Round  51, Average loss 0.008
+Round  52, Average loss 0.009
+Round  53, Average loss 0.010
+Round  54, Average loss 0.007
+Round  55, Average loss 0.008
+Round  56, Average loss 0.008
+Round  57, Average loss 0.007
+Round  58, Average loss 0.006
+Round  59, Average loss 0.006
+Round  60, Average loss 0.008
+Round  61, Average loss 0.007
+Round  62, Average loss 0.007
+Round  63, Average loss 0.006
+Round  64, Average loss 0.007
+Round  65, Average loss 0.008
+Round  66, Average loss 0.006
+Round  67, Average loss 0.008
+Round  68, Average loss 0.007
+Round  69, Average loss 0.006
+Round  70, Average loss 0.006
+Round  71, Average loss 0.006
+Round  72, Average loss 0.006
+Round  73, Average loss 0.005
+Round  74, Average loss 0.005
+Round  75, Average loss 0.005
+Round  76, Average loss 0.006
+Round  77, Average loss 0.008
+Round  78, Average loss 0.005
+Round  79, Average loss 0.006
+Round  80, Average loss 0.006
+Round  81, Average loss 0.005
+Round  82, Average loss 0.005
+Round  83, Average loss 0.004
+Round  84, Average loss 0.004
+Round  85, Average loss 0.005
+Round  86, Average loss 0.007
+Round  87, Average loss 0.006
+Round  88, Average loss 0.006
+Round  89, Average loss 0.005
+Round  90, Average loss 0.004
+Round  91, Average loss 0.004
+Round  92, Average loss 0.005
+Round  93, Average loss 0.005
+Round  94, Average loss 0.005
+Round  95, Average loss 0.004
+Round  96, Average loss 0.004
+Round  97, Average loss 0.004
+Round  98, Average loss 0.004
+Round  99, Average loss 0.004
+Training accuracy: 75.14
+Testing accuracy: 62.21

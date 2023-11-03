@@ -1,0 +1,22 @@
+CNNMnist(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (conv2_drop): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+Aggregation over all clients
+Epochs 0 one local model size: 808
+Epochs 0 global updated model size: 808
+Round   0, Average loss 0.680
+Epochs 1 one local model size: 808
+Epochs 1 global updated model size: 808
+Round   1, Average loss 0.304
+Epochs 2 one local model size: 808
+Epochs 2 global updated model size: 808
+Round   2, Average loss 0.231
+Epochs 3 one local model size: 808
+Epochs 3 global updated model size: 808
+Round   3, Average loss 0.193
+Training accuracy: 85.68
+Testing accuracy: 85.93

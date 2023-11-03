@@ -1,0 +1,55 @@
+/data1/bxs/conda2/envs/lucky/lib/python3.8/site-packages/torchvision/datasets/mnist.py:65: UserWarning: train_labels has been renamed targets
+  warnings.warn("train_labels has been renamed targets")
+CNNMnist(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (conv2_drop): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+Aggregation over all clients
+40
+Round   0, Average loss 0.718
+Training accuracy: 40.53
+Testing accuracy: 39.79
+40
+Round   1, Average loss 0.336
+Training accuracy: 67.18
+Testing accuracy: 66.87
+40
+Round   2, Average loss 0.254
+Training accuracy: 77.35
+Testing accuracy: 77.32
+40
+Round   3, Average loss 0.210
+Training accuracy: 82.75
+Testing accuracy: 82.69
+40
+Round   4, Average loss 0.181
+Training accuracy: 86.16
+Testing accuracy: 86.59
+/data1/bxs/conda2/envs/lucky/lib/python3.8/site-packages/torchvision/datasets/mnist.py:65: UserWarning: train_labels has been renamed targets
+  warnings.warn("train_labels has been renamed targets")
+CNNMnist(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (conv2_drop): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+Aggregation over all clients
+Round   0, Average loss 0.712
+Training accuracy: 41.14
+Testing accuracy: 40.46
+Round   1, Average loss 0.325
+Training accuracy: 71.05
+Testing accuracy: 71.11
+Round   2, Average loss 0.249
+Training accuracy: 82.96
+Testing accuracy: 82.77
+Round   3, Average loss 0.208
+Training accuracy: 87.17
+Testing accuracy: 87.46
+Round   4, Average loss 0.181
+Training accuracy: 89.39
+Testing accuracy: 89.59

@@ -1,0 +1,152 @@
+MLP(
+  (layer_input): Linear(in_features=784, out_features=200, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.5, inplace=False)
+  (layer_hidden): Linear(in_features=200, out_features=10, bias=True)
+)
+Round   0, Average loss 0.819
+Round   1, Average loss 0.385
+Round   2, Average loss 0.300
+Round   3, Average loss 0.264
+Round   4, Average loss 0.235
+Round   5, Average loss 0.215
+Round   6, Average loss 0.199
+Round   7, Average loss 0.181
+Round   8, Average loss 0.185
+Round   9, Average loss 0.168
+Training accuracy: 94.61
+Testing accuracy: 94.72
+MLP(
+  (layer_input): Linear(in_features=784, out_features=200, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.5, inplace=False)
+  (layer_hidden): Linear(in_features=200, out_features=10, bias=True)
+)
+Round   0, Average loss 0.786
+Round   1, Average loss 0.390
+Round   2, Average loss 0.310
+Round   3, Average loss 0.274
+Round   4, Average loss 0.224
+Round   5, Average loss 0.206
+Round   6, Average loss 0.202
+Round   7, Average loss 0.189
+Round   8, Average loss 0.185
+Round   9, Average loss 0.167
+Round  10, Average loss 0.163
+Round  11, Average loss 0.147
+Round  12, Average loss 0.150
+Round  13, Average loss 0.148
+Round  14, Average loss 0.147
+Round  15, Average loss 0.147
+Round  16, Average loss 0.125
+Round  17, Average loss 0.121
+Round  18, Average loss 0.123
+Round  19, Average loss 0.116
+Round  20, Average loss 0.120
+Round  21, Average loss 0.118
+Round  22, Average loss 0.109
+Round  23, Average loss 0.103
+Round  24, Average loss 0.109
+Round  25, Average loss 0.098
+Round  26, Average loss 0.094
+Round  27, Average loss 0.102
+Round  28, Average loss 0.102
+Round  29, Average loss 0.095
+Round  30, Average loss 0.101
+Round  31, Average loss 0.089
+Round  32, Average loss 0.094
+Round  33, Average loss 0.089
+Round  34, Average loss 0.093
+Round  35, Average loss 0.092
+Round  36, Average loss 0.088
+Round  37, Average loss 0.083
+Round  38, Average loss 0.085
+Round  39, Average loss 0.077
+Round  40, Average loss 0.088
+Round  41, Average loss 0.074
+Round  42, Average loss 0.086
+Round  43, Average loss 0.086
+Round  44, Average loss 0.074
+Round  45, Average loss 0.079
+Round  46, Average loss 0.080
+Round  47, Average loss 0.085
+Round  48, Average loss 0.069
+Round  49, Average loss 0.076
+Training accuracy: 97.62
+Testing accuracy: 97.13
+MLP(
+  (layer_input): Linear(in_features=784, out_features=200, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.5, inplace=False)
+  (layer_hidden): Linear(in_features=200, out_features=10, bias=True)
+)
+Round   0, Average loss 0.147
+Round   1, Average loss 0.097
+Round   2, Average loss 0.087
+Round   3, Average loss 0.064
+Round   4, Average loss 0.052
+Round   5, Average loss 0.052
+Round   6, Average loss 0.037
+Round   7, Average loss 0.056
+Round   8, Average loss 0.062
+Round   9, Average loss 0.066
+Training accuracy: 73.09
+Testing accuracy: 73.01
+MLP(
+  (layer_input): Linear(in_features=784, out_features=200, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.5, inplace=False)
+  (layer_hidden): Linear(in_features=200, out_features=10, bias=True)
+)
+Round   0, Average loss 0.116
+Round   1, Average loss 0.101
+Round   2, Average loss 0.103
+Round   3, Average loss 0.069
+Round   4, Average loss 0.081
+Round   5, Average loss 0.065
+Round   6, Average loss 0.083
+Round   7, Average loss 0.043
+Round   8, Average loss 0.046
+Round   9, Average loss 0.042
+Round  10, Average loss 0.081
+Round  11, Average loss 0.063
+Round  12, Average loss 0.048
+Round  13, Average loss 0.039
+Round  14, Average loss 0.023
+Round  15, Average loss 0.091
+Round  16, Average loss 0.046
+Round  17, Average loss 0.049
+Round  18, Average loss 0.067
+Round  19, Average loss 0.062
+Round  20, Average loss 0.055
+Round  21, Average loss 0.038
+Round  22, Average loss 0.046
+Round  23, Average loss 0.027
+Round  24, Average loss 0.055
+Round  25, Average loss 0.061
+Round  26, Average loss 0.058
+Round  27, Average loss 0.032
+Round  28, Average loss 0.041
+Round  29, Average loss 0.043
+Round  30, Average loss 0.037
+Round  31, Average loss 0.048
+Round  32, Average loss 0.042
+Round  33, Average loss 0.036
+Round  34, Average loss 0.019
+Round  35, Average loss 0.051
+Round  36, Average loss 0.047
+Round  37, Average loss 0.042
+Round  38, Average loss 0.036
+Round  39, Average loss 0.039
+Round  40, Average loss 0.038
+Round  41, Average loss 0.041
+Round  42, Average loss 0.029
+Round  43, Average loss 0.031
+Round  44, Average loss 0.041
+Round  45, Average loss 0.037
+Round  46, Average loss 0.037
+Round  47, Average loss 0.039
+Round  48, Average loss 0.029
+Round  49, Average loss 0.041
+Training accuracy: 93.85
+Testing accuracy: 93.78

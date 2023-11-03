@@ -1,0 +1,20 @@
+CNNMnist(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (conv2_drop): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+Aggregation over all clients
+Round   0, Average loss 0.691
+Round   1, Average loss 0.322
+Round   2, Average loss 0.243
+Round   3, Average loss 0.200
+Round   4, Average loss 0.173
+Training accuracy: 90.24
+Testing accuracy: 90.21
+
+python command:
+python main_fed.py --dataset mnist --num_channels 1 --model cnn --gpu 0 --local_ep 100 --local_bs 32 --lr 0.001 --epochs 5 --num_users 40 --all_clients >> record_epochs5_users40.txt
+
+python main_fed.py --dataset cifar --num_channels 3 --model cnn --gpu 0 --local_ep 100 --local_bs 100 --lr 0.1 --epochs 5 --num_users 40 --all_clients >> record_epochs5_users40.txt

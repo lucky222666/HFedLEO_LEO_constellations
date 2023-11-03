@@ -1,0 +1,46 @@
+执行语句：
+python main_fed.py --dataset mnist --num_channels 1 --model cnn --gpu 0 --local_ep 100 --local_bs 32 --lr 0.001 --epochs 5 --num_users 40 --frac 0.2
+
+输出：
+/home/user/.local/lib/python3.8/site-packages/torchvision/datasets/mnist.py:54: UserWarning: train_labels has been renamed targets
+  warnings.warn("train_labels has been renamed targets")
+CNNMnist(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (conv2_drop): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+Round   0, Average loss 0.902
+Round   1, Average loss 0.338
+Round   2, Average loss 0.233
+Round   3, Average loss 0.204
+Round   4, Average loss 0.164
+Training accuracy: 88.66
+Testing accuracy: 89.09usage: main_fed.py [-h] [--epochs EPOCHS] [--num_users NUM_USERS]
+                   [--frac FRAC] [--local_ep LOCAL_EP] [--local_bs LOCAL_BS]
+                   [--bs BS] [--lr LR] [--momentum MOMENTUM] [--split SPLIT]
+                   [--model MODEL] [--kernel_num KERNEL_NUM]
+                   [--kernel_sizes KERNEL_SIZES] [--norm NORM]
+                   [--num_filters NUM_FILTERS] [--max_pool MAX_POOL]
+                   [--dataset DATASET] [--iid] [--num_classes NUM_CLASSES]
+                   [--num_channels NUM_CHANNELS] [--gpu GPU]
+                   [--stopping_rounds STOPPING_ROUNDS] [--verbose]
+                   [--seed SEED] [--all_clients]
+main_fed.py: error: unrecognized arguments: --local_eps 100
+/home/user/.local/lib/python3.8/site-packages/torchvision/datasets/mnist.py:54: UserWarning: train_labels has been renamed targets
+  warnings.warn("train_labels has been renamed targets")
+CNNMnist(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (conv2_drop): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+Round   0, Average loss 0.642
+Round   1, Average loss 0.303
+Round   2, Average loss 0.179
+Round   3, Average loss 0.229
+Round   4, Average loss 0.206
+Training accuracy: 71.65
+Testing accuracy: 72.06

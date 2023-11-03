@@ -1,0 +1,182 @@
+CNNMnist(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (conv2_drop): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+Round   0, Average loss 1.769
+Round   1, Average loss 0.874
+Round   2, Average loss 0.639
+Round   3, Average loss 0.503
+Round   4, Average loss 0.442
+Round   5, Average loss 0.390
+Round   6, Average loss 0.362
+Round   7, Average loss 0.314
+Round   8, Average loss 0.313
+Round   9, Average loss 0.284
+Training accuracy: 96.32
+Testing accuracy: 96.64
+CNNMnist(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (conv2_drop): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+Round   0, Average loss 1.662
+Round   1, Average loss 0.812
+Round   2, Average loss 0.595
+Round   3, Average loss 0.475
+Round   4, Average loss 0.430
+Round   5, Average loss 0.367
+Round   6, Average loss 0.360
+Round   7, Average loss 0.331
+Round   8, Average loss 0.307
+Round   9, Average loss 0.288
+Round  10, Average loss 0.280
+Round  11, Average loss 0.252
+Round  12, Average loss 0.275
+Round  13, Average loss 0.237
+Round  14, Average loss 0.236
+Round  15, Average loss 0.248
+Round  16, Average loss 0.227
+Round  17, Average loss 0.223
+Round  18, Average loss 0.219
+Round  19, Average loss 0.212
+Round  20, Average loss 0.212
+Round  21, Average loss 0.200
+Round  22, Average loss 0.193
+Round  23, Average loss 0.199
+Round  24, Average loss 0.205
+Round  25, Average loss 0.189
+Round  26, Average loss 0.182
+Round  27, Average loss 0.192
+Round  28, Average loss 0.183
+Round  29, Average loss 0.181
+Round  30, Average loss 0.167
+Round  31, Average loss 0.174
+Round  32, Average loss 0.170
+Round  33, Average loss 0.181
+Round  34, Average loss 0.166
+Round  35, Average loss 0.160
+Round  36, Average loss 0.156
+Round  37, Average loss 0.176
+Round  38, Average loss 0.152
+Round  39, Average loss 0.146
+Round  40, Average loss 0.153
+Round  41, Average loss 0.162
+Round  42, Average loss 0.150
+Round  43, Average loss 0.158
+Round  44, Average loss 0.158
+Round  45, Average loss 0.147
+Round  46, Average loss 0.141
+Round  47, Average loss 0.150
+Round  48, Average loss 0.147
+Round  49, Average loss 0.150
+Training accuracy: 98.29
+Testing accuracy: 98.42
+CNNMnist(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (conv2_drop): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+Round   0, Average loss 0.331
+Round   1, Average loss 0.133
+Round   2, Average loss 0.148
+Round   3, Average loss 0.078
+Round   4, Average loss 0.108
+Round   5, Average loss 0.104
+Round   6, Average loss 0.102
+Round   7, Average loss 0.070
+Round   8, Average loss 0.096
+Round   9, Average loss 0.090
+Training accuracy: 85.29
+Testing accuracy: 85.22
+CNNMnist(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (conv2_drop): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+Round   0, Average loss 0.312
+Round   1, Average loss 0.176
+Round   2, Average loss 0.124
+Round   3, Average loss 0.114
+Round   4, Average loss 0.100
+Round   5, Average loss 0.112
+Round   6, Average loss 0.085
+Round   7, Average loss 0.102
+Round   8, Average loss 0.080
+Round   9, Average loss 0.071
+Round  10, Average loss 0.093
+Round  11, Average loss 0.091
+Round  12, Average loss 0.078
+Round  13, Average loss 0.086
+Round  14, Average loss 0.086
+Round  15, Average loss 0.086
+Round  16, Average loss 0.046
+Round  17, Average loss 0.069
+Round  18, Average loss 0.077
+Round  19, Average loss 0.044
+Round  20, Average loss 0.077
+Round  21, Average loss 0.062
+Round  22, Average loss 0.053
+Round  23, Average loss 0.061
+Round  24, Average loss 0.057
+Round  25, Average loss 0.055
+Round  26, Average loss 0.048
+Round  27, Average loss 0.075
+Round  28, Average loss 0.038
+Round  29, Average loss 0.040
+Round  30, Average loss 0.059
+Round  31, Average loss 0.064
+Round  32, Average loss 0.060
+Round  33, Average loss 0.041
+Round  34, Average loss 0.037
+Round  35, Average loss 0.060
+Round  36, Average loss 0.049
+Round  37, Average loss 0.049
+Round  38, Average loss 0.055
+Round  39, Average loss 0.052
+Round  40, Average loss 0.049
+Round  41, Average loss 0.046
+Round  42, Average loss 0.028
+Round  43, Average loss 0.043
+Round  44, Average loss 0.044
+Round  45, Average loss 0.048
+Round  46, Average loss 0.053
+Round  47, Average loss 0.062
+Round  48, Average loss 0.052
+Round  49, Average loss 0.038
+Training accuracy: 92.93
+Testing accuracy: 93.00
+
+
+
+ORDER:
+epochs = 10, IID 
+epochs = 50, IID 
+epochs = 10, non-IID 
+epochs = 50, non-IID 
+
+MY RES:
+command:python main_fed.py --dataset mnist --num_channels 1 --gpu 0 --model xxx --epochs xxx --iid >> xxx.txt
+
+Results are shown in Table 1 and Table 2, with the parameters C=0.1, B=10, E=5.
+
+Table 1. results of 10 epochs training with the learning rate of 0.01
+| Model     | Acc. of IID | Acc. of Non-IID|
+| -----     | -----       | ----           |
+| FedAVG-MLP|  94.72%     | 73.01%         |
+| FedAVG-CNN|  96.64%     | 85.22%(正常划分方法) / 79.60%（优化论文划分方法）        |
+
+Table 2. results of 50 epochs training with the learning rate of 0.01
+
+| Model     | Acc. of IID | Acc. of Non-IID|
+| -----     | -----       | ----           |
+| FedAVG-MLP| 97.13%      | 93.78%         |
+| FedAVG-CNN| 98.42%      | 93.00% / 97.02%        |

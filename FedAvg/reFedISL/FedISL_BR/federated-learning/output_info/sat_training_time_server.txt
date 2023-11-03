@@ -1,0 +1,10 @@
+Epochs 0
+server 13 during epochs 0 consume training time: 0.0022895336151123047s
+Epochs 1
+server 28 during epochs 1 consume training time: 0.0022878646850585938s
+Epochs 2
+server 27 during epochs 2 consume training time: 0.0023641586303710938s
+Epochs 3
+server 31 during epochs 3 consume training time: 0.0025479793548583984s
+Epochs 4
+server 9 during epochs 4 consume training time: 0.0022640228271484375s

@@ -1,0 +1,80 @@
+Files already downloaded and verified
+Files already downloaded and verified
+MLP(
+  (layer_input): Linear(in_features=3072, out_features=200, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.5, inplace=False)
+  (layer_hidden): Linear(in_features=200, out_features=10, bias=True)
+)
+Round   0, Average loss 1.849
+Round   1, Average loss 1.674
+Round   2, Average loss 1.576
+Round   3, Average loss 1.544
+Round   4, Average loss 1.480
+Round   5, Average loss 1.486
+Round   6, Average loss 1.471
+Round   7, Average loss 1.424
+Round   8, Average loss 1.434
+Round   9, Average loss 1.421
+Training accuracy: 47.27
+Testing accuracy: 46.16
+Files already downloaded and verified
+Files already downloaded and verified
+MLP(
+  (layer_input): Linear(in_features=3072, out_features=200, bias=True)
+  (relu): ReLU()
+  (dropout): Dropout(p=0.5, inplace=False)
+  (layer_hidden): Linear(in_features=200, out_features=10, bias=True)
+)
+Round   0, Average loss 1.863
+Round   1, Average loss 1.662
+Round   2, Average loss 1.597
+Round   3, Average loss 1.547
+Round   4, Average loss 1.520
+Round   5, Average loss 1.489
+Round   6, Average loss 1.468
+Round   7, Average loss 1.444
+Round   8, Average loss 1.411
+Round   9, Average loss 1.402
+Round  10, Average loss 1.405
+Round  11, Average loss 1.394
+Round  12, Average loss 1.384
+Round  13, Average loss 1.395
+Round  14, Average loss 1.336
+Round  15, Average loss 1.372
+Round  16, Average loss 1.354
+Round  17, Average loss 1.328
+Round  18, Average loss 1.340
+Round  19, Average loss 1.270
+Round  20, Average loss 1.327
+Round  21, Average loss 1.318
+Round  22, Average loss 1.290
+Round  23, Average loss 1.309
+Round  24, Average loss 1.289
+Round  25, Average loss 1.269
+Round  26, Average loss 1.272
+Round  27, Average loss 1.252
+Round  28, Average loss 1.259
+Round  29, Average loss 1.255
+Round  30, Average loss 1.222
+Round  31, Average loss 1.203
+Round  32, Average loss 1.293
+Round  33, Average loss 1.256
+Round  34, Average loss 1.230
+Round  35, Average loss 1.236
+Round  36, Average loss 1.252
+Round  37, Average loss 1.219
+Round  38, Average loss 1.202
+Round  39, Average loss 1.221
+Round  40, Average loss 1.214
+Round  41, Average loss 1.236
+Round  42, Average loss 1.179
+Round  43, Average loss 1.239
+Round  44, Average loss 1.201
+Round  45, Average loss 1.224
+Round  46, Average loss 1.199
+Round  47, Average loss 1.252
+Round  48, Average loss 1.172
+Round  49, Average loss 1.166
+Training accuracy: 55.73
+Testing accuracy: 51.30
