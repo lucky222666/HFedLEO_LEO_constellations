@@ -1,0 +1,32 @@
+/home/nlsde/anaconda3/envs/lucky/lib/python3.8/site-packages/torchvision/datasets/mnist.py:65: UserWarning: train_labels has been renamed targets
+  warnings.warn("train_labels has been renamed targets")
+/home/nlsde/anaconda3/envs/lucky/lib/python3.8/site-packages/torchvision/datasets/mnist.py:70: UserWarning: test_labels has been renamed targets
+  warnings.warn("test_labels has been renamed targets")
+constellation StarLink training start time: 2023-06-01 00:00:00
+constellation StarLink training end time: 2023-06-01 00:00:55
+Training accuracy: 9.31 based on global model in previous round
+Testing accuracy: 9.30 based on global model in previous round
+Average accuracy 9.800 based on global model in previous round
+Average loss 0.555 in order to get the model of current round
+Epoch No.1 fraction is 0.1
+Epoch No.1 training is over
+
+constellation StarLink training start time: 2023-06-01 00:00:55
+constellation StarLink training end time: 2023-06-01 00:01:51
+Training accuracy: 12.14 based on global model in previous round
+Testing accuracy: 11.39 based on global model in previous round
+Average accuracy 6.600 based on global model in previous round
+Average loss 0.294 in order to get the model of current round
+Epoch No.2 fraction is 0.1
+Epoch No.2 training is over
+
+constellation StarLink training start time: 2023-06-01 00:01:51
+constellation StarLink training end time: 2023-06-01 00:02:47
+Training accuracy: 22.56 based on global model in previous round
+Testing accuracy: 22.11 based on global model in previous round
+Average accuracy 19.600 based on global model in previous round
+Average loss 0.219 in order to get the model of current round
+Epoch No.3 fraction is tensor(0.0967)
+Epoch No.3 training is over
+
+fraction is less than 0 and a suitable orbit cannot be selected.

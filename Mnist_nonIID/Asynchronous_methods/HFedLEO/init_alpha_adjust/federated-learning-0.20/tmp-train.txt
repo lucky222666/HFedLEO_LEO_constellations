@@ -1,0 +1,499 @@
+constellation StarLink training start time: 2023-06-01 00:00:00
+constellation StarLink training end time: 2023-06-01 00:06:05
+Training accuracy: 9.31 based on global model in previous round
+Testing accuracy: 9.30 based on global model in previous round
+Average accuracy 12.100 based on global model in previous round
+Average loss 0.539 in order to get the model of current round
+Epoch No.1 fraction is 0.2
+Epoch No.1 training is over
+
+constellation StarLink training start time: 2023-06-01 00:06:05
+constellation StarLink training end time: 2023-06-01 00:10:28
+Training accuracy: 22.21 based on global model in previous round
+Testing accuracy: 21.42 based on global model in previous round
+Average accuracy 16.050 based on global model in previous round
+Average loss 0.292 in order to get the model of current round
+Epoch No.2 fraction is 0.2
+Epoch No.2 training is over
+
+constellation StarLink training start time: 2023-06-01 00:10:28
+constellation StarLink training end time: 2023-06-01 00:14:03
+Training accuracy: 29.54 based on global model in previous round
+Testing accuracy: 29.57 based on global model in previous round
+Average accuracy 26.050 based on global model in previous round
+Average loss 0.237 in order to get the model of current round
+Epoch No.3 fraction is tensor(0.1920)
+Epoch No.3 training is over
+
+constellation StarLink training start time: 2023-06-01 00:14:03
+constellation StarLink training end time: 2023-06-01 00:16:51
+Training accuracy: 31.17 based on global model in previous round
+Testing accuracy: 30.38 based on global model in previous round
+Average accuracy 24.850 based on global model in previous round
+Average loss 0.197 in order to get the model of current round
+Epoch No.4 fraction is tensor(0.1608)
+Epoch No.4 training is over
+
+constellation StarLink training start time: 2023-06-01 00:16:51
+constellation StarLink training end time: 2023-06-01 00:20:25
+Training accuracy: 59.30 based on global model in previous round
+Testing accuracy: 58.92 based on global model in previous round
+Average accuracy 58.950 based on global model in previous round
+Average loss 0.182 in order to get the model of current round
+Epoch No.5 fraction is tensor(0.1631)
+Epoch No.5 training is over
+
+constellation StarLink training start time: 2023-06-01 00:20:25
+constellation StarLink training end time: 2023-06-01 00:21:21
+Training accuracy: 51.58 based on global model in previous round
+Testing accuracy: 51.78 based on global model in previous round
+Average accuracy 49.900 based on global model in previous round
+Average loss 0.167 in order to get the model of current round
+Epoch No.6 fraction is tensor(0.0945)
+Epoch No.6 training is over
+
+constellation StarLink training start time: 2023-06-01 00:21:21
+constellation StarLink training end time: 2023-06-01 00:23:52
+Training accuracy: 48.85 based on global model in previous round
+Testing accuracy: 49.04 based on global model in previous round
+Average accuracy 51.200 based on global model in previous round
+Average loss 0.152 in order to get the model of current round
+Epoch No.7 fraction is tensor(0.1022)
+Epoch No.7 training is over
+
+constellation StarLink training start time: 2023-06-01 00:23:52
+constellation StarLink training end time: 2023-06-01 00:26:43
+Training accuracy: 58.83 based on global model in previous round
+Testing accuracy: 58.69 based on global model in previous round
+Average accuracy 56.333 based on global model in previous round
+Average loss 0.140 in order to get the model of current round
+Epoch No.8 fraction is tensor(0.1009)
+Epoch No.8 training is over
+
+constellation StarLink training start time: 2023-06-01 00:26:43
+constellation StarLink training end time: 2023-06-01 00:27:39
+Training accuracy: 66.85 based on global model in previous round
+Testing accuracy: 66.70 based on global model in previous round
+Average accuracy 67.700 based on global model in previous round
+Average loss 0.133 in order to get the model of current round
+Epoch No.9 fraction is tensor(0.0959)
+Epoch No.9 training is over
+
+constellation StarLink training start time: 2023-06-01 00:27:39
+constellation StarLink training end time: 2023-06-01 00:28:35
+Training accuracy: 63.73 based on global model in previous round
+Testing accuracy: 63.54 based on global model in previous round
+Average accuracy 60.500 based on global model in previous round
+Average loss 0.119 in order to get the model of current round
+Epoch No.10 fraction is tensor(0.0858)
+Epoch No.10 training is over
+
+constellation StarLink training start time: 2023-06-01 00:28:35
+constellation StarLink training end time: 2023-06-01 00:29:31
+Training accuracy: 63.26 based on global model in previous round
+Testing accuracy: 62.69 based on global model in previous round
+Average accuracy 54.600 based on global model in previous round
+Average loss 0.110 in order to get the model of current round
+Epoch No.11 fraction is tensor(0.0911)
+Epoch No.11 training is over
+
+constellation StarLink training start time: 2023-06-01 00:29:31
+constellation StarLink training end time: 2023-06-01 00:30:23
+Training accuracy: 63.86 based on global model in previous round
+Testing accuracy: 63.27 based on global model in previous round
+Average accuracy 66.600 based on global model in previous round
+Average loss 0.123 in order to get the model of current round
+Epoch No.12 fraction is tensor(0.0960)
+Epoch No.12 training is over
+
+constellation StarLink training start time: 2023-06-01 00:30:23
+constellation StarLink training end time: 2023-06-01 00:31:19
+Training accuracy: 67.49 based on global model in previous round
+Testing accuracy: 66.82 based on global model in previous round
+Average accuracy 69.500 based on global model in previous round
+Average loss 0.113 in order to get the model of current round
+Epoch No.13 fraction is tensor(0.0850)
+Epoch No.13 training is over
+
+constellation StarLink training start time: 2023-06-01 00:31:19
+constellation StarLink training end time: 2023-06-01 00:32:15
+Training accuracy: 68.11 based on global model in previous round
+Testing accuracy: 67.43 based on global model in previous round
+Average accuracy 71.000 based on global model in previous round
+Average loss 0.106 in order to get the model of current round
+Epoch No.14 fraction is tensor(0.0828)
+Epoch No.14 training is over
+
+constellation StarLink training start time: 2023-06-01 00:32:15
+constellation StarLink training end time: 2023-06-01 00:34:00
+Training accuracy: 68.89 based on global model in previous round
+Testing accuracy: 68.14 based on global model in previous round
+Average accuracy 58.600 based on global model in previous round
+Average loss 0.114 in order to get the model of current round
+Epoch No.15 fraction is tensor(0.0817)
+Epoch No.15 training is over
+
+constellation StarLink training start time: 2023-06-01 00:34:00
+constellation StarLink training end time: 2023-06-01 00:34:56
+Training accuracy: 69.57 based on global model in previous round
+Testing accuracy: 68.65 based on global model in previous round
+Average accuracy 59.500 based on global model in previous round
+Average loss 0.103 in order to get the model of current round
+Epoch No.16 fraction is tensor(0.0905)
+Epoch No.16 training is over
+
+constellation StarLink training start time: 2023-06-01 00:34:56
+constellation StarLink training end time: 2023-06-01 00:35:52
+Training accuracy: 70.68 based on global model in previous round
+Testing accuracy: 70.86 based on global model in previous round
+Average accuracy 76.100 based on global model in previous round
+Average loss 0.101 in order to get the model of current round
+Epoch No.17 fraction is tensor(0.0897)
+Epoch No.17 training is over
+
+constellation StarLink training start time: 2023-06-01 00:35:52
+constellation StarLink training end time: 2023-06-01 00:35:55
+Training accuracy: 68.29 based on global model in previous round
+Testing accuracy: 67.89 based on global model in previous round
+Average accuracy 68.900 based on global model in previous round
+Average loss 0.098 in order to get the model of current round
+Epoch No.18 fraction is tensor(0.0757)
+Epoch No.18 training is over
+
+constellation StarLink training start time: 2023-06-01 00:35:55
+constellation StarLink training end time: 2023-06-01 00:36:51
+Training accuracy: 77.32 based on global model in previous round
+Testing accuracy: 77.37 based on global model in previous round
+Average accuracy 80.600 based on global model in previous round
+Average loss 0.101 in order to get the model of current round
+Epoch No.19 fraction is tensor(0.0805)
+Epoch No.19 training is over
+
+constellation StarLink training start time: 2023-06-01 00:36:51
+constellation StarLink training end time: 2023-06-01 00:37:47
+Training accuracy: 74.99 based on global model in previous round
+Testing accuracy: 74.94 based on global model in previous round
+Average accuracy 73.900 based on global model in previous round
+Average loss 0.091 in order to get the model of current round
+Epoch No.20 fraction is tensor(0.0720)
+Epoch No.20 training is over
+
+constellation StarLink training start time: 2023-06-01 00:37:47
+constellation StarLink training end time: 2023-06-01 00:38:43
+Training accuracy: 75.07 based on global model in previous round
+Testing accuracy: 75.30 based on global model in previous round
+Average accuracy 70.400 based on global model in previous round
+Average loss 0.086 in order to get the model of current round
+Epoch No.21 fraction is tensor(0.0761)
+Epoch No.21 training is over
+
+constellation StarLink training start time: 2023-06-01 00:38:43
+constellation StarLink training end time: 2023-06-01 00:39:30
+Training accuracy: 74.15 based on global model in previous round
+Testing accuracy: 74.25 based on global model in previous round
+Average accuracy 77.500 based on global model in previous round
+Average loss 0.102 in order to get the model of current round
+Epoch No.22 fraction is tensor(0.0785)
+Epoch No.22 training is over
+
+constellation StarLink training start time: 2023-06-01 00:39:30
+constellation StarLink training end time: 2023-06-01 00:39:38
+Training accuracy: 77.00 based on global model in previous round
+Testing accuracy: 76.60 based on global model in previous round
+Average accuracy 75.400 based on global model in previous round
+Average loss 0.082 in order to get the model of current round
+Epoch No.23 fraction is tensor(0.0735)
+Epoch No.23 training is over
+
+constellation StarLink training start time: 2023-06-01 00:39:38
+constellation StarLink training end time: 2023-06-01 00:40:25
+Training accuracy: 73.95 based on global model in previous round
+Testing accuracy: 73.91 based on global model in previous round
+Average accuracy 77.000 based on global model in previous round
+Average loss 0.098 in order to get the model of current round
+Epoch No.24 fraction is tensor(0.0748)
+Epoch No.24 training is over
+
+constellation StarLink training start time: 2023-06-01 00:40:25
+constellation StarLink training end time: 2023-06-01 00:41:21
+Training accuracy: 78.21 based on global model in previous round
+Testing accuracy: 77.95 based on global model in previous round
+Average accuracy 82.100 based on global model in previous round
+Average loss 0.092 in order to get the model of current round
+Epoch No.25 fraction is tensor(0.0738)
+Epoch No.25 training is over
+
+constellation StarLink training start time: 2023-06-01 00:41:21
+constellation StarLink training end time: 2023-06-01 00:42:17
+Training accuracy: 77.18 based on global model in previous round
+Testing accuracy: 76.78 based on global model in previous round
+Average accuracy 81.200 based on global model in previous round
+Average loss 0.088 in order to get the model of current round
+Epoch No.26 fraction is tensor(0.0705)
+Epoch No.26 training is over
+
+constellation StarLink training start time: 2023-06-01 00:42:17
+constellation StarLink training end time: 2023-06-01 00:42:44
+Training accuracy: 76.52 based on global model in previous round
+Testing accuracy: 76.14 based on global model in previous round
+Average accuracy 68.900 based on global model in previous round
+Average loss 0.095 in order to get the model of current round
+Epoch No.27 fraction is tensor(0.0710)
+Epoch No.27 training is over
+
+constellation StarLink training start time: 2023-06-01 00:42:44
+constellation StarLink training end time: 2023-06-01 00:43:39
+Training accuracy: 78.59 based on global model in previous round
+Testing accuracy: 78.11 based on global model in previous round
+Average accuracy 74.800 based on global model in previous round
+Average loss 0.088 in order to get the model of current round
+Epoch No.28 fraction is tensor(0.0786)
+Epoch No.28 training is over
+
+constellation StarLink training start time: 2023-06-01 00:43:39
+constellation StarLink training end time: 2023-06-01 00:44:35
+Training accuracy: 74.68 based on global model in previous round
+Testing accuracy: 74.97 based on global model in previous round
+Average accuracy 77.300 based on global model in previous round
+Average loss 0.083 in order to get the model of current round
+Epoch No.29 fraction is tensor(0.0743)
+Epoch No.29 training is over
+
+constellation StarLink training start time: 2023-06-01 00:44:35
+constellation StarLink training end time: 2023-06-01 00:45:31
+Training accuracy: 74.64 based on global model in previous round
+Testing accuracy: 75.27 based on global model in previous round
+Average accuracy 77.500 based on global model in previous round
+Average loss 0.081 in order to get the model of current round
+Epoch No.30 fraction is tensor(0.0726)
+Epoch No.30 training is over
+
+constellation StarLink training start time: 2023-06-01 00:45:31
+constellation StarLink training end time: 2023-06-01 00:45:46
+Training accuracy: 74.96 based on global model in previous round
+Testing accuracy: 75.51 based on global model in previous round
+Average accuracy 77.300 based on global model in previous round
+Average loss 0.080 in order to get the model of current round
+Epoch No.31 fraction is tensor(0.0725)
+Epoch No.31 training is over
+
+constellation StarLink training start time: 2023-06-01 00:45:46
+constellation StarLink training end time: 2023-06-01 00:46:27
+Training accuracy: 83.10 based on global model in previous round
+Testing accuracy: 82.82 based on global model in previous round
+Average accuracy 84.500 based on global model in previous round
+Average loss 0.079 in order to get the model of current round
+Epoch No.32 fraction is tensor(0.0726)
+Epoch No.32 training is over
+
+constellation StarLink training start time: 2023-06-01 00:46:27
+constellation StarLink training end time: 2023-06-01 00:46:41
+Training accuracy: 75.14 based on global model in previous round
+Testing accuracy: 75.57 based on global model in previous round
+Average accuracy 77.800 based on global model in previous round
+Average loss 0.084 in order to get the model of current round
+Epoch No.33 fraction is tensor(0.0680)
+Epoch No.33 training is over
+
+constellation StarLink training start time: 2023-06-01 00:46:41
+constellation StarLink training end time: 2023-06-01 00:47:37
+Training accuracy: 83.58 based on global model in previous round
+Testing accuracy: 83.38 based on global model in previous round
+Average accuracy 83.400 based on global model in previous round
+Average loss 0.076 in order to get the model of current round
+Epoch No.34 fraction is tensor(0.0719)
+Epoch No.34 training is over
+
+constellation StarLink training start time: 2023-06-01 00:47:37
+constellation StarLink training end time: 2023-06-01 00:48:33
+Training accuracy: 81.93 based on global model in previous round
+Testing accuracy: 82.07 based on global model in previous round
+Average accuracy 79.900 based on global model in previous round
+Average loss 0.075 in order to get the model of current round
+Epoch No.35 fraction is tensor(0.0683)
+Epoch No.35 training is over
+
+constellation StarLink training start time: 2023-06-01 00:48:33
+constellation StarLink training end time: 2023-06-01 00:49:29
+Training accuracy: 80.92 based on global model in previous round
+Testing accuracy: 81.22 based on global model in previous round
+Average accuracy 81.400 based on global model in previous round
+Average loss 0.079 in order to get the model of current round
+Epoch No.36 fraction is tensor(0.0704)
+Epoch No.36 training is over
+
+constellation StarLink training start time: 2023-06-01 00:49:29
+constellation StarLink training end time: 2023-06-01 00:49:38
+Training accuracy: 82.93 based on global model in previous round
+Testing accuracy: 82.83 based on global model in previous round
+Average accuracy 82.300 based on global model in previous round
+Average loss 0.076 in order to get the model of current round
+Epoch No.37 fraction is tensor(0.0695)
+Epoch No.37 training is over
+
+constellation StarLink training start time: 2023-06-01 00:49:38
+constellation StarLink training end time: 2023-06-01 00:50:33
+Training accuracy: 81.59 based on global model in previous round
+Testing accuracy: 81.67 based on global model in previous round
+Average accuracy 83.400 based on global model in previous round
+Average loss 0.082 in order to get the model of current round
+Epoch No.38 fraction is tensor(0.0689)
+Epoch No.38 training is over
+
+constellation StarLink training start time: 2023-06-01 00:50:33
+constellation StarLink training end time: 2023-06-01 00:51:29
+Training accuracy: 83.56 based on global model in previous round
+Testing accuracy: 83.07 based on global model in previous round
+Average accuracy 86.200 based on global model in previous round
+Average loss 0.080 in order to get the model of current round
+Epoch No.39 fraction is tensor(0.0683)
+Epoch No.39 training is over
+
+constellation StarLink training start time: 2023-06-01 00:51:29
+constellation StarLink training end time: 2023-06-01 00:52:27
+Training accuracy: 82.46 based on global model in previous round
+Testing accuracy: 82.21 based on global model in previous round
+Average accuracy 79.500 based on global model in previous round
+Average loss 0.072 in order to get the model of current round
+Epoch No.40 fraction is tensor(0.0666)
+Epoch No.40 training is over
+
+constellation StarLink training start time: 2023-06-01 00:52:27
+constellation StarLink training end time: 2023-06-01 00:53:22
+Training accuracy: 80.20 based on global model in previous round
+Testing accuracy: 80.06 based on global model in previous round
+Average accuracy 76.100 based on global model in previous round
+Average loss 0.074 in order to get the model of current round
+Epoch No.41 fraction is tensor(0.0705)
+Epoch No.41 training is over
+
+constellation StarLink training start time: 2023-06-01 00:53:22
+constellation StarLink training end time: 2023-06-01 00:54:18
+Training accuracy: 81.16 based on global model in previous round
+Testing accuracy: 81.40 based on global model in previous round
+Average accuracy 78.900 based on global model in previous round
+Average loss 0.075 in order to get the model of current round
+Epoch No.42 fraction is tensor(0.0726)
+Epoch No.42 training is over
+
+constellation StarLink training start time: 2023-06-01 00:54:18
+constellation StarLink training end time: 2023-06-01 00:55:14
+Training accuracy: 78.17 based on global model in previous round
+Testing accuracy: 78.46 based on global model in previous round
+Average accuracy 81.100 based on global model in previous round
+Average loss 0.071 in order to get the model of current round
+Epoch No.43 fraction is tensor(0.0708)
+Epoch No.43 training is over
+
+constellation StarLink training start time: 2023-06-01 00:55:14
+constellation StarLink training end time: 2023-06-01 00:55:38
+Training accuracy: 77.75 based on global model in previous round
+Testing accuracy: 78.12 based on global model in previous round
+Average accuracy 79.900 based on global model in previous round
+Average loss 0.070 in order to get the model of current round
+Epoch No.44 fraction is tensor(0.0694)
+Epoch No.44 training is over
+
+constellation StarLink training start time: 2023-06-01 00:55:38
+constellation StarLink training end time: 2023-06-01 00:56:10
+Training accuracy: 85.20 based on global model in previous round
+Testing accuracy: 85.42 based on global model in previous round
+Average accuracy 86.200 based on global model in previous round
+Average loss 0.069 in order to get the model of current round
+Epoch No.45 fraction is tensor(0.0701)
+Epoch No.45 training is over
+
+constellation StarLink training start time: 2023-06-01 00:56:10
+constellation StarLink training end time: 2023-06-01 00:56:33
+Training accuracy: 77.86 based on global model in previous round
+Testing accuracy: 78.24 based on global model in previous round
+Average accuracy 79.800 based on global model in previous round
+Average loss 0.075 in order to get the model of current round
+Epoch No.46 fraction is tensor(0.0662)
+Epoch No.46 training is over
+
+constellation StarLink training start time: 2023-06-01 00:56:33
+constellation StarLink training end time: 2023-06-01 00:57:29
+Training accuracy: 86.61 based on global model in previous round
+Testing accuracy: 86.32 based on global model in previous round
+Average accuracy 86.100 based on global model in previous round
+Average loss 0.069 in order to get the model of current round
+Epoch No.47 fraction is tensor(0.0699)
+Epoch No.47 training is over
+
+constellation StarLink training start time: 2023-06-01 00:57:29
+constellation StarLink training end time: 2023-06-01 00:58:25
+Training accuracy: 85.05 based on global model in previous round
+Testing accuracy: 85.15 based on global model in previous round
+Average accuracy 84.000 based on global model in previous round
+Average loss 0.066 in order to get the model of current round
+Epoch No.48 fraction is tensor(0.0659)
+Epoch No.48 training is over
+
+constellation StarLink training start time: 2023-06-01 00:58:25
+constellation StarLink training end time: 2023-06-01 00:59:21
+Training accuracy: 83.85 based on global model in previous round
+Testing accuracy: 84.20 based on global model in previous round
+Average accuracy 83.700 based on global model in previous round
+Average loss 0.070 in order to get the model of current round
+Epoch No.49 fraction is tensor(0.0672)
+Epoch No.49 training is over
+
+constellation StarLink training start time: 2023-06-01 00:59:21
+constellation StarLink training end time: 2023-06-01 01:00:00
+Training accuracy: 85.78 based on global model in previous round
+Testing accuracy: 85.74 based on global model in previous round
+Average accuracy 85.700 based on global model in previous round
+Average loss 0.068 in order to get the model of current round
+Epoch No.50 fraction is tensor(0.0673)
+Epoch No.50 training is over
+
+constellation StarLink training start time: 2023-06-01 01:00:00
+constellation StarLink training end time: 2023-06-01 01:00:55
+Training accuracy: 85.11 based on global model in previous round
+Testing accuracy: 85.06 based on global model in previous round
+Average accuracy 85.500 based on global model in previous round
+Average loss 0.074 in order to get the model of current round
+Epoch No.51 fraction is tensor(0.0661)
+Epoch No.51 training is over
+
+constellation StarLink training start time: 2023-06-01 01:00:55
+constellation StarLink training end time: 2023-06-01 01:02:13
+Training accuracy: 86.39 based on global model in previous round
+Testing accuracy: 86.15 based on global model in previous round
+Average accuracy 83.900 based on global model in previous round
+Average loss 0.065 in order to get the model of current round
+Epoch No.52 fraction is tensor(0.0663)
+Epoch No.52 training is over
+
+constellation StarLink training start time: 2023-06-01 01:02:13
+constellation StarLink training end time: 2023-06-01 01:03:08
+Training accuracy: 84.02 based on global model in previous round
+Testing accuracy: 83.58 based on global model in previous round
+Average accuracy 80.400 based on global model in previous round
+Average loss 0.068 in order to get the model of current round
+Epoch No.53 fraction is tensor(0.0672)
+Epoch No.53 training is over
+
+constellation StarLink training start time: 2023-06-01 01:03:08
+constellation StarLink training end time: 2023-06-01 01:04:04
+Training accuracy: 84.78 based on global model in previous round
+Testing accuracy: 85.10 based on global model in previous round
+Average accuracy 83.500 based on global model in previous round
+Average loss 0.067 in order to get the model of current round
+Epoch No.54 fraction is tensor(0.0693)
+Epoch No.54 training is over
+
+constellation StarLink training start time: 2023-06-01 01:04:04
+constellation StarLink training end time: 2023-06-01 01:05:00
+Training accuracy: 81.71 based on global model in previous round
+Testing accuracy: 82.17 based on global model in previous round
+/home/nlsde/anaconda3/envs/lucky/lib/python3.8/site-packages/torchvision/datasets/mnist.py:65: UserWarning: train_labels has been renamed targets
+  warnings.warn("train_labels has been renamed targets")
+/home/nlsde/anaconda3/envs/lucky/lib/python3.8/site-packages/torchvision/datasets/mnist.py:70: UserWarning: test_labels has been renamed targets
+  warnings.warn("test_labels has been renamed targets")
+Average accuracy 84.100 based on global model in previous round
+Average loss 0.066 in order to get the model of current round
+Epoch No.55 fraction is tensor(0.0674)
+Epoch No.55 training is over
+

@@ -1,0 +1,306 @@
+CNNMnist(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (conv2_drop): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+Round   0, Average loss 0.553
+Training accuracy: 23.77
+Testing accuracy: 23.16
+Round   1, Average loss 0.280
+Training accuracy: 37.86
+Testing accuracy: 38.33
+Round   2, Average loss 0.227
+Training accuracy: 35.44
+Testing accuracy: 35.91
+Round   3, Average loss 0.198
+Training accuracy: 53.56
+Testing accuracy: 54.75
+Round   4, Average loss 0.175
+Training accuracy: 63.46
+Testing accuracy: 62.63
+Round   5, Average loss 0.155
+Training accuracy: 55.86
+Testing accuracy: 57.55
+Round   6, Average loss 0.161
+Training accuracy: 64.10
+Testing accuracy: 65.02
+Round   7, Average loss 0.135
+Training accuracy: 73.50
+Testing accuracy: 74.18
+Round   8, Average loss 0.135
+Training accuracy: 70.11
+Testing accuracy: 70.59
+Round   9, Average loss 0.132
+Training accuracy: 82.21
+Testing accuracy: 83.13
+Round  10, Average loss 0.116
+Training accuracy: 83.46
+Testing accuracy: 84.00
+Round  11, Average loss 0.117
+Training accuracy: 83.09
+Testing accuracy: 83.42
+Round  12, Average loss 0.106
+Training accuracy: 88.39
+Testing accuracy: 89.07
+Round  13, Average loss 0.111
+Training accuracy: 84.46
+Testing accuracy: 84.98
+Round  14, Average loss 0.091
+Training accuracy: 85.63
+Testing accuracy: 85.88
+Round  15, Average loss 0.088
+Training accuracy: 86.83
+Testing accuracy: 87.38
+Round  16, Average loss 0.086
+Training accuracy: 83.86
+Testing accuracy: 84.59
+Round  17, Average loss 0.089
+Training accuracy: 87.31
+Testing accuracy: 88.16
+Round  18, Average loss 0.084
+Training accuracy: 87.19
+Testing accuracy: 87.54
+Round  19, Average loss 0.087
+Training accuracy: 89.40
+Testing accuracy: 89.97
+Round  20, Average loss 0.089
+Training accuracy: 87.98
+Testing accuracy: 88.94
+Round  21, Average loss 0.081
+Training accuracy: 88.90
+Testing accuracy: 89.73
+Round  22, Average loss 0.091
+Training accuracy: 86.98
+Testing accuracy: 87.82
+Round  23, Average loss 0.079
+Training accuracy: 86.72
+Testing accuracy: 87.13
+Round  24, Average loss 0.086
+Training accuracy: 87.45
+Testing accuracy: 88.16
+Round  25, Average loss 0.081
+Training accuracy: 87.37
+Testing accuracy: 87.87
+Round  26, Average loss 0.085
+Training accuracy: 89.65
+Testing accuracy: 90.31
+Round  27, Average loss 0.080
+Training accuracy: 89.03
+Testing accuracy: 89.83
+Round  28, Average loss 0.080
+Training accuracy: 90.12
+Testing accuracy: 90.67
+Round  29, Average loss 0.085
+Training accuracy: 90.59
+Testing accuracy: 91.33
+Round  30, Average loss 0.077
+Training accuracy: 90.83
+Testing accuracy: 91.30
+Round  31, Average loss 0.081
+Training accuracy: 92.48
+Testing accuracy: 92.76
+Round  32, Average loss 0.071
+Training accuracy: 92.26
+Testing accuracy: 92.76
+Round  33, Average loss 0.070
+Training accuracy: 92.30
+Testing accuracy: 92.61
+Round  34, Average loss 0.078
+Training accuracy: 91.90
+Testing accuracy: 92.20
+Round  35, Average loss 0.066
+Training accuracy: 91.73
+Testing accuracy: 92.25
+Round  36, Average loss 0.061
+Training accuracy: 91.94
+Testing accuracy: 92.32
+Round  37, Average loss 0.067
+Training accuracy: 91.54
+Testing accuracy: 91.98
+Round  38, Average loss 0.056
+Training accuracy: 91.96
+Testing accuracy: 92.30
+Round  39, Average loss 0.067
+Training accuracy: 92.39
+Testing accuracy: 92.84
+Round  40, Average loss 0.060
+Training accuracy: 92.38
+Testing accuracy: 92.69
+Round  41, Average loss 0.056
+Training accuracy: 92.37
+Testing accuracy: 92.67
+Round  42, Average loss 0.074
+Training accuracy: 92.58
+Testing accuracy: 93.08
+Round  43, Average loss 0.062
+Training accuracy: 92.99
+Testing accuracy: 93.41
+Round  44, Average loss 0.065
+Training accuracy: 91.61
+Testing accuracy: 92.20
+Round  45, Average loss 0.058
+Training accuracy: 92.26
+Testing accuracy: 92.79
+Round  46, Average loss 0.061
+Training accuracy: 91.51
+Testing accuracy: 92.02
+Round  47, Average loss 0.063
+Training accuracy: 91.73
+Testing accuracy: 92.16
+Round  48, Average loss 0.063
+Training accuracy: 93.43
+Testing accuracy: 94.08
+Round  49, Average loss 0.060
+Training accuracy: 92.59
+Testing accuracy: 93.11
+Round  50, Average loss 0.064
+Training accuracy: 92.89
+Testing accuracy: 93.31
+Round  51, Average loss 0.069
+Training accuracy: 93.72
+Testing accuracy: 93.91
+Round  52, Average loss 0.059
+Training accuracy: 93.01
+Testing accuracy: 93.50
+Round  53, Average loss 0.060
+Training accuracy: 94.39
+Testing accuracy: 94.69
+Round  54, Average loss 0.063
+Training accuracy: 94.74
+Testing accuracy: 94.89
+Round  55, Average loss 0.062
+Training accuracy: 94.48
+Testing accuracy: 94.62
+Round  56, Average loss 0.062
+Training accuracy: 93.77
+Testing accuracy: 94.22
+Round  57, Average loss 0.052
+Training accuracy: 94.36
+Testing accuracy: 94.49
+Round  58, Average loss 0.055
+Training accuracy: 93.40
+Testing accuracy: 93.72
+Round  59, Average loss 0.050
+Training accuracy: 92.72
+Testing accuracy: 93.17
+Round  60, Average loss 0.051
+Training accuracy: 94.17
+Testing accuracy: 94.29
+Round  61, Average loss 0.050
+Training accuracy: 94.09
+Testing accuracy: 94.31
+Round  62, Average loss 0.054
+Training accuracy: 94.07
+Testing accuracy: 94.43
+Round  63, Average loss 0.049
+Training accuracy: 94.62
+Testing accuracy: 94.87
+Round  64, Average loss 0.058
+Training accuracy: 94.62
+Testing accuracy: 94.97
+Round  65, Average loss 0.052
+Training accuracy: 94.69
+Testing accuracy: 95.07
+Round  66, Average loss 0.052
+Training accuracy: 94.45
+Testing accuracy: 94.86
+Round  67, Average loss 0.047
+Training accuracy: 93.55
+Testing accuracy: 94.16
+Round  68, Average loss 0.050
+Training accuracy: 94.11
+Testing accuracy: 94.53
+Round  69, Average loss 0.056
+Training accuracy: 93.71
+Testing accuracy: 94.08
+Round  70, Average loss 0.048
+Training accuracy: 93.43
+Testing accuracy: 93.75
+Round  71, Average loss 0.060
+Training accuracy: 94.71
+Testing accuracy: 95.29
+Round  72, Average loss 0.051
+Training accuracy: 94.48
+Testing accuracy: 94.72
+Round  73, Average loss 0.059
+Training accuracy: 94.35
+Testing accuracy: 94.62
+Round  74, Average loss 0.054
+Training accuracy: 94.38
+Testing accuracy: 94.83
+Round  75, Average loss 0.049
+Training accuracy: 94.68
+Testing accuracy: 94.96
+Round  76, Average loss 0.055
+Training accuracy: 95.75
+Testing accuracy: 95.88
+Round  77, Average loss 0.052
+Training accuracy: 95.70
+Testing accuracy: 96.05
+Round  78, Average loss 0.048
+Training accuracy: 95.19
+Testing accuracy: 95.55
+Round  79, Average loss 0.051
+Training accuracy: 95.21
+Testing accuracy: 95.44
+Round  80, Average loss 0.044
+Training accuracy: 94.75
+Testing accuracy: 95.17
+Round  81, Average loss 0.045
+Training accuracy: 94.50
+Testing accuracy: 94.93
+Round  82, Average loss 0.046
+Training accuracy: 93.97
+Testing accuracy: 94.26
+Round  83, Average loss 0.039
+Training accuracy: 94.86
+Testing accuracy: 95.32
+Round  84, Average loss 0.050
+Training accuracy: 95.29
+Testing accuracy: 95.86
+Round  85, Average loss 0.046
+Training accuracy: 95.08
+Testing accuracy: 95.24
+Round  86, Average loss 0.044
+Training accuracy: 95.72
+Testing accuracy: 95.92
+Round  87, Average loss 0.051
+Training accuracy: 95.46
+Testing accuracy: 95.94
+Round  88, Average loss 0.044
+Training accuracy: 95.19
+Testing accuracy: 95.63
+Round  89, Average loss 0.045
+Training accuracy: 94.27
+Testing accuracy: 94.53
+Round  90, Average loss 0.044
+Training accuracy: 94.92
+Testing accuracy: 95.10
+Round  91, Average loss 0.047
+Training accuracy: 95.04
+Testing accuracy: 95.32
+Round  92, Average loss 0.048
+Training accuracy: 94.64
+Testing accuracy: 94.97
+Round  93, Average loss 0.046
+Training accuracy: 95.15
+Testing accuracy: 95.47
+Round  94, Average loss 0.053
+Training accuracy: 95.60
+Testing accuracy: 95.80
+Round  95, Average loss 0.046
+Training accuracy: 95.04
+Testing accuracy: 95.31
+Round  96, Average loss 0.050
+Training accuracy: 95.67
+Testing accuracy: 95.73
+Round  97, Average loss 0.045
+Training accuracy: 95.28
+Testing accuracy: 95.48
+Round  98, Average loss 0.048
+Training accuracy: 96.13
+Testing accuracy: 96.36
+Round  99, Average loss 0.048
+Training accuracy: 96.13

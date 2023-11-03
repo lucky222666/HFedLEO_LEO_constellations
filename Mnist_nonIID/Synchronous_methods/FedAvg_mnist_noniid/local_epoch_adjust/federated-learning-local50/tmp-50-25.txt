@@ -1,0 +1,84 @@
+/data1/bxs/conda2/envs/lucky/lib/python3.8/site-packages/torchvision/datasets/mnist.py:65: UserWarning: train_labels has been renamed targets
+  warnings.warn("train_labels has been renamed targets")
+CNNMnist(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (conv2_drop): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+Round   0, Average loss 0.270
+Training accuracy: 23.42
+Testing accuracy: 23.39
+Round   1, Average loss 0.142
+Training accuracy: 57.41
+Testing accuracy: 57.37
+Round   2, Average loss 0.109
+Training accuracy: 69.24
+Testing accuracy: 68.63
+Round   3, Average loss 0.092
+Training accuracy: 74.83
+Testing accuracy: 74.07
+Round   4, Average loss 0.081
+Training accuracy: 79.17
+Testing accuracy: 78.80
+Round   5, Average loss 0.074
+Training accuracy: 83.01
+Testing accuracy: 83.10
+Round   6, Average loss 0.069
+Training accuracy: 84.92
+Testing accuracy: 85.24
+Round   7, Average loss 0.064
+Training accuracy: 86.51
+Testing accuracy: 87.14
+Round   8, Average loss 0.061
+Training accuracy: 87.70
+Testing accuracy: 88.62
+Round   9, Average loss 0.058
+Training accuracy: 88.77
+Testing accuracy: 89.52
+Round  10, Average loss 0.055
+Training accuracy: 89.50
+Testing accuracy: 90.28
+Round  11, Average loss 0.053
+Training accuracy: 90.29
+Testing accuracy: 91.11
+Round  12, Average loss 0.051
+Training accuracy: 90.75
+Testing accuracy: 91.40
+Round  13, Average loss 0.049
+Training accuracy: 91.23
+Testing accuracy: 91.72
+Round  14, Average loss 0.048
+Training accuracy: 91.72
+Testing accuracy: 92.15
+Round  15, Average loss 0.046
+Training accuracy: 91.96
+Testing accuracy: 92.32
+Round  16, Average loss 0.045
+Training accuracy: 92.29
+Testing accuracy: 92.75
+Round  17, Average loss 0.044
+Training accuracy: 92.53
+Testing accuracy: 92.96
+Round  18, Average loss 0.043
+Training accuracy: 92.86
+Testing accuracy: 93.26
+Round  19, Average loss 0.041
+Training accuracy: 93.05
+Testing accuracy: 93.49
+Round  20, Average loss 0.041
+Training accuracy: 93.27
+Testing accuracy: 93.67
+Round  21, Average loss 0.040
+Training accuracy: 93.38
+Testing accuracy: 93.77
+Round  22, Average loss 0.039
+Training accuracy: 93.61
+Testing accuracy: 94.01
+Round  23, Average loss 0.038
+Training accuracy: 93.74
+Testing accuracy: 94.13
+Round  24, Average loss 0.038
+Training accuracy: 93.89
+Testing accuracy: 94.25

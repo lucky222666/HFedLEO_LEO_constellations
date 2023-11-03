@@ -1,0 +1,57 @@
+/home/nlsde/anaconda3/envs/lucky/lib/python3.8/site-packages/torchvision/datasets/mnist.py:65: UserWarning: train_labels has been renamed targets
+  warnings.warn("train_labels has been renamed targets")
+CNNMnist(
+  (conv1): Conv2d(1, 10, kernel_size=(5, 5), stride=(1, 1))
+  (conv2): Conv2d(10, 20, kernel_size=(5, 5), stride=(1, 1))
+  (conv2_drop): Dropout2d(p=0.5, inplace=False)
+  (fc1): Linear(in_features=320, out_features=50, bias=True)
+  (fc2): Linear(in_features=50, out_features=10, bias=True)
+)
+Round   0, Average loss 0.532
+Training accuracy: 17.05
+Testing accuracy: 17.06
+Round   1, Average loss 0.287
+Training accuracy: 48.58
+Testing accuracy: 48.80
+Round   2, Average loss 0.221
+Training accuracy: 62.56
+Testing accuracy: 62.54
+Round   3, Average loss 0.188
+Training accuracy: 69.00
+Testing accuracy: 68.59
+Round   4, Average loss 0.166
+Training accuracy: 73.04
+Testing accuracy: 72.59
+Round   5, Average loss 0.152
+Training accuracy: 77.51
+Testing accuracy: 77.30
+Round   6, Average loss 0.140
+Training accuracy: 79.94
+Testing accuracy: 80.03
+Round   7, Average loss 0.132
+Training accuracy: 82.46
+Testing accuracy: 82.32
+Round   8, Average loss 0.124
+Training accuracy: 83.74
+Testing accuracy: 83.91
+Round   9, Average loss 0.119
+Training accuracy: 85.03
+Testing accuracy: 85.53
+Round  10, Average loss 0.113
+Training accuracy: 85.88
+Testing accuracy: 86.50
+Round  11, Average loss 0.109
+Training accuracy: 86.89
+Testing accuracy: 87.66
+Round  12, Average loss 0.106
+Training accuracy: 87.82
+Testing accuracy: 88.73
+Round  13, Average loss 0.101
+Training accuracy: 88.20
+Testing accuracy: 89.16
+Round  14, Average loss 0.098
+Training accuracy: 89.00
+Testing accuracy: 89.94
+Round  15, Average loss 0.095
+Training accuracy: 89.12
+Testing accuracy: 90.09
